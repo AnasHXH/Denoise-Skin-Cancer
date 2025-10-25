@@ -60,9 +60,11 @@ The denoising results for both PH2 and HAM10000 datasets, including visual compa
 
 Below is an example showing the effect of diffusion-based denoising on a dermoscopic image:
 
-| Original Image | Noisy Image | Denoised Output |
-|----------------|-------------|------------------|
-| <img src="ADD_LINK_TO_ORIGINAL_IMAGE" width="250"> | <img src="ADD_LINK_TO_NOISY_IMAGE" width="250"> | <img src="ADD_LINK_TO_DENOISED_IMAGE" width="250"> |
+
+<p align="center">
+  <img src="https://github.com/AnasHXH/Denoise-Skin-Cancer/blob/main/0_3_Remove_noise%20processing.png" alt="Original • Noisy • Denoised dermoscopic image" width="900">
+</p>
+
 
 ---
 
