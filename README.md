@@ -44,7 +44,7 @@ python Denoise_skin_cancer\sr.py\
 -p train -c Denoise_skin_cancer\config\val.json
 ```
 # Downloading Model Weights
-To ensure the accuracy and efficiency of your tests, it is crucial to use the appropriate model [weights](https://drive.google.com/drive/folders/1OINKjCZQNzU1OxFQ64i3GlYkgbe_zrIh?usp=sharing).
+To ensure the accuracy and efficiency of your tests, it is crucial to use the appropriate model [weights](https://drive.google.com/drive/folders/1mYnI1ShmnrIdTjEh2i5ybf4dQk1StPGW?usp=sharing).
 ---
 
 
@@ -52,7 +52,7 @@ To ensure the accuracy and efficiency of your tests, it is crucial to use the ap
 
 The denoising results for both PH2 and HAM10000 datasets, including visual comparisons and evaluation metrics (PSNR, SSIM, MS-SSIM), can be found at the link below:
 
-📁 **Google Drive Results Folder:** [ADD YOUR DRIVE LINK HERE]
+📁 **Google Drive Results Folder:** [https://drive.google.com/drive/folders/1TDiELCRMOJonitj6kaEEvgOFm1NWUWK0?usp=sharing]
 
 ---
 
